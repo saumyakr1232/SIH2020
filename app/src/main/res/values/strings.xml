@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SIH</string>
+    <string name="home" />
+    <string name="person" />
+    <string name="remainder" />
+    <string name="cart" />
+</resources>
